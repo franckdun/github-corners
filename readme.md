@@ -1,5 +1,7 @@
 ### GitHub Corners
 
+[![Here's the page](https://i.imgur.com/703iLiS.png)]()
+
 Phew, GitHub is over ten years old now... and is unquestionably synonymous with open source. After 10 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
 
 By using SVG, these corners can be clean and sharp. Any color, and size. As well as have a little character and interactivity!
@@ -9,8 +11,6 @@ You can build your own with the [SVGs](https://github.com/tholman/github-corners
 ### Screenshot
 
 You can see the page here... but I really recommend [visiting the page](http://tholman.com/github-corners) to see the small animations that really make them come to life.
-
-![Here's the page](https://i.imgur.com/703iLiS.png)
 
 ### License/Acknowledgements
 
