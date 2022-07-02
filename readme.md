@@ -1,4 +1,4 @@
-### GitHub Corners
+<h1><a href="https://franckdun.github.io/github-corners/"> GitHub Corners </a></h1>
 
 [![Here's the page](https://i.imgur.com/703iLiS.png)](https://franckdun.github.io/github-corners/)
 
