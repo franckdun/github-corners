@@ -1,3 +1,5 @@
+<p align="right"><a href="https://github.com/franckdun/Visualfolio/blob/main/README.md"> <img src="https://img.shields.io/badge/Go%20to-visualfolio-blueviolet"> </a></p>
+
 <h1><a href="https://franckdun.github.io/github-corners/"> GitHub Corners </a></h1>
 
 [![Here's the page](https://i.imgur.com/703iLiS.png)](https://franckdun.github.io/github-corners/)
